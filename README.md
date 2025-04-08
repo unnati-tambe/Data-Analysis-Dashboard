@@ -24,3 +24,44 @@ This report analyzes the annual pizza sales data to identify trends, understand 
 
 ## Dashboard
 ![Screenshot (3)](https://github.com/user-attachments/assets/5115ec3a-a205-46c8-958e-c691015c201c)
+
+## Project Insight
+- Total Revenue: $64,180 | Avg Order Value: $38.64
+
+Total Pizzas Sold: 3,890 | Orders: 1,661 | Avg Pizzas/Order: 2.34
+
+- Order Trends
+Peak Days: Weekends
+
+Peak Time: 12 PM – 5 PM & 6 PM
+
+Low Activity: Late nights (after 9 PM)
+
+- Sales by Category & Size
+Top Category: Classic (27.97%)
+
+Top Size: Large (46.55%)
+
+- Best Sellers
+Top Pizza: Classic Deluxe (209 sold)
+
+Top Types: Classic & Chicken pizzas
+
+- Worst Sellers
+Lowest: Brie Carre Pizza (49 sold)
+
+ ## Final Conclusion
+The analysis reveals that Classic and Chicken pizzas, especially in large sizes, are the main revenue drivers, with the Classic Deluxe being the top-selling item. Sales peak on weekends and during afternoon to early evening hours, making these the most effective times for promotions. However, some pizzas like the Brie Carre Pizza consistently underperform and may require reevaluation. To maximize revenue and efficiency, focus on best-selling products, optimize marketing during peak periods, and consider phasing out or reinventing low performers.
+
+
+
+
+
+
+
+
+
+
+
+
+
