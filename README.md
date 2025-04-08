@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a project in Excel by using SQL and Excel and created a dashboard and tables to analyze the data. This process includes data gathering, data cleaning, data processing and data visualization.
+# Pizza Sales Analysis (interactive dashboard creation by using MS-Excel)
+## Project Objective
+This report analyzes the annual pizza sales data to identify trends, understand customers behavior and growth rate. 
