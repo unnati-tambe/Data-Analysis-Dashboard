@@ -23,7 +23,7 @@ This report analyzes the annual pizza sales data to identify trends, understand 
 - Merged all pivot tables into one dashboard and applied slicer to make it dynamic.
 
 ## Dashboard
-![Screenshot (3)](https://github.com/user-attachments/assets/5115ec3a-a205-46c8-958e-c691015c201c)
+![Screenshot (10)](https://github.com/user-attachments/assets/66f136b3-c53d-444a-ae25-0c997f328210)
 
 ## Project Insight
 - Total Revenue: $64,180 | Avg Order Value: $38.64
